@@ -9,7 +9,7 @@ A challenge typically consists of:
 
 The current list of Model Management challenges:
 
-- Satellite Configuration (initiated in 2025)
+- [Satellite Configuration](https://github.com/mom-challenge/satellite-config) (initiated in 2025)
   - Change Impact and Consistency
   - Unified Querying and Validation
   - Versioning
