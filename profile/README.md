@@ -18,7 +18,7 @@ The current list of Model Management challenges:
 
 #### Contributing
 
-If you would like to propose your own challenge, contact Rakshit Mittal.
+If you would like to propose your own challenge, contact github user raks0009.
 
 if you would like to contribute to a challenge, refer to CONTRIBUTING.md in that specific challenge.
 
