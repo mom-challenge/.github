@@ -24,5 +24,5 @@ For a challenge to be considered in a challenge year, a couple of requirements n
 
 If you would like to contribute to a challenge, refer to CONTRIBUTING.md in that specific challenge.
 
-If you would like to know more about Model management, consider attending the [MoM Workshop](https://mom2025.wp.imt.fr) at the [MODELS Conference](https://conf.researchr.org/home/models-2025), or contact one of its organizers.
+If you would like to know more about Model management, consider attending the [MoM Workshop](https://mom2025.wp.imt.fr) at the [MODELS Conference](https://conf.researchr.org/home/models-2025), or contact one of its organizers or participants.
 
