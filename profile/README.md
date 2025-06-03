@@ -19,8 +19,9 @@ For a challenge to be considered in a challenge year, a couple of requirements n
   - artefacts (possibly, and most likely in multiple formalisms)
   - descriptions of the links between these artefacts
   - the (possibly multiple) challenge scenarios - descriptions of changes, and how the changes affect other artefacts, what strategies are required by MoM solutions
-3. Each challenge repo is composed of multiple branches, (named '2025', '2026', etc.), one for each year it should be considered in the MoM Workshop challenge phase .
-4. There is an official release of the corresponding year branch within 1 month of the workshop acceptance in that specific year - with DOI on Zenodo. The latest release by the end of that 1 month will be considered for the challenge (bar releases with bugfixes). 
+3. There is a clear description of contributing guidelines and motivation for the challenge. 
+4. Each challenge repo is composed of multiple branches, (named '2025', '2026', etc.), one for each year it is desired to be considered in the MoM Workshop challenge phase.
+5. There is an official release of the corresponding branch within 1 month of the workshop acceptance - with DOI on Zenodo.  
 
 If you would like to contribute to a challenge, refer to CONTRIBUTING.md in that specific challenge.
 
