@@ -4,7 +4,7 @@ This Github organization is aimed at collecting challenges from multiple domains
 
 The current list of Model Management challenges:
 
-|                                     Name                                     | Initiated | Challenge Years |                                                     Stories                                                    |                   Maintainer                  |                 Contributors                |
+|                                     Name                                     | Initiated | Challenge Years |                                                     Stories                                                    |                   Current Maintainer          |                 Contributors                |
 |:----------------------------------------------------------------------------:|:---------:|:---------------:|:--------------------------------------------------------------------------------------------------------------:|:---------------------------------------------:|:-------------------------------------------:|
 | [Satellite Configuration](https://github.com/mom-challenge/satellite-config) |    2025   |       2025      | Change Impact and Consistency, Unified Querying and Validation, Generation of Views, Versioning, Collaboration | [raks0009](https://github.com/users/raks0009) | [TomWerm](https://github.com/users/TomWerm) |
   
