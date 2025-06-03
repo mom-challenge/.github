@@ -4,17 +4,17 @@ This Github organization is aimed at collecting challenges from multiple domains
 
 The current list of Model Management challenges:
 
-|                                     Name                                     | Initiated | Challenge Years |                                                            Stories                                                           |                   Maintainer                  |                 Contributors                |
-|:----------------------------------------------------------------------------:|:---------:|:---------------:|:----------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------:|:-------------------------------------------:|
-| [Satellite Configuration](https://github.com/mom-challenge/satellite-config) |    2025   |       2025      | - Change Impact and Consistency   - Unified Querying and Validation   - Generation of Views   - Versioning   - Collaboration | [raks0009](https://github.com/raks0009) | [TomWerm](https://github.com/TomWerm) |
+|                                     Name                                     | Initiated | Challenge Years |                                                     Stories                                                    |                   Maintainer                  |                 Contributors                |
+|:----------------------------------------------------------------------------:|:---------:|:---------------:|:--------------------------------------------------------------------------------------------------------------:|:---------------------------------------------:|:-------------------------------------------:|
+| [Satellite Configuration](https://github.com/mom-challenge/satellite-config) |    2025   |       2025      | Change Impact and Consistency, Unified Querying and Validation, Generation of Views, Versioning, Collaboration | [raks0009](https://github.com/users/raks0009) | [TomWerm](https://github.com/users/TomWerm) |
   
 
 
 #### Contributing
 
-If you would like to propose your own challenge, contact github user raks0009 to add the repo to the mom-challenge repos and make you admin.
+If you would like to propose your own challenge, contact [raks0009](https://github.com/users/raks0009) to add the repo to the mom-challenge repos and make you maintainer.
 For a challenge to be considered in a challenge year, a couple of requirements need to be satisifed:
-1. There should be a designated active admin of the challenge repo.
+1. There should be a designated active maintainer of the challenge repo.
 2. A challenge typically consists of:
   - artefacts (possibly, and most likely in multiple formalisms)
   - descriptions of the links between these artefacts
